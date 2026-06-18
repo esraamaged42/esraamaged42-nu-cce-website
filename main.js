@@ -229,27 +229,8 @@ async function loadJson(path) {
 }
 
 Promise.all([
-  loadJson("study-plan.json"),
-  loadJson("site-visits.json"),
-  loadJson("activities-events.json"),
-  loadJson("cce-labs.json"),
+  loadJson("study-plan.json").catch(e => null),
+  loadJson("site-visits.json").catch(e => null),
+  loadJson("activities-events.json").catch(e => null),
+  loadJson("cce-labs.json").catch(e => null),
 ])
-  .then(([studyPlan, siteVisits, activitiesEvents, cceLabs]) => {
-    content.studyPlan = studyPlan;
-    content.siteVisits = siteVisits;
-    content.activitiesEvents = activitiesEvents;
-    content.cceLabs = cceLabs;
-
-    renderPage();
-  })
-  .catch((error) => {
-    console.error(error);
-    const main = document.querySelector("main");
-
-    if (main) {
-      main.insertAdjacentHTML(
-        "beforeend",
-        '<section class="section"><div class="section-inner">Content could not be loaded.</div></section>'
-      );
-    }
-  });
