@@ -229,10 +229,10 @@ async function loadJson(path) {
 }
 
 Promise.all([
-  loadJson("content/study-plan.json"),
-  loadJson("content/site-visits.json"),
-  loadJson("content/activities-events.json"),
-  loadJson("content/cce-labs.json"),
+  loadJson("study-plan.json"),
+  loadJson("site-visits.json"),
+  loadJson("activities-events.json"),
+  loadJson("cce-labs.json"),
 ])
   .then(([studyPlan, siteVisits, activitiesEvents, cceLabs]) => {
     content.studyPlan = studyPlan;
