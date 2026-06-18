@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract civil engineering hero visual</title>
+  <desc id="desc">Blueprint grid, bridge truss, structural frame, and civil engineering measurement lines.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#112a46"/>
+      <stop offset=".45" stop-color="#0b6b72"/>
+      <stop offset="1" stop-color="#f2a03d"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#21d4fd"/>
+      <stop offset="1" stop-color="#fdbb2d"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0v34" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="1"/>
+      <path d="M17 0v34M0 17h34" fill="none" stroke="#ffffff" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#00151f" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="900" height="640" rx="44" fill="url(#sky)"/>
+  <rect width="900" height="640" rx="44" fill="url(#grid)"/>
+  <g opacity=".18" stroke="#fff" fill="none">
+    <path d="M90 116h308M90 160h210M90 204h276M90 248h166"/>
+    <path d="M640 86v186M686 86v156M732 86v206M778 86v120"/>
+    <circle cx="700" cy="374" r="92"/>
+    <circle cx="700" cy="374" r="52"/>
+    <path d="M608 374h184M700 282v184"/>
+  </g>
+  <g filter="url(#softShadow)">
+    <path d="M90 448h720" stroke="#eaf7f7" stroke-width="14" stroke-linecap="round"/>
+    <path d="M132 448 250 332l118 116 118-116 118 116 118-116 46 116" fill="none" stroke="url(#beam)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M132 448h636M250 332v116M368 448V332M486 332v116M604 448V332M722 332v116" fill="none" stroke="#ffffff" stroke-width="6" stroke-opacity=".82"/>
+    <path d="M250 332 368 448M368 332 486 448M486 332l118 116M604 332l118 116" stroke="#ffffff" stroke-opacity=".55" stroke-width="4"/>
+  </g>
+  <g transform="translate(110 236)" fill="#ffffff" opacity=".95">
+    <rect x="0" y="112" width="56" height="100" rx="4"/>
+    <rect x="76" y="64" width="56" height="148" rx="4"/>
+    <rect x="152" y="28" width="56" height="184" rx="4"/>
+    <rect x="228" y="84" width="56" height="128" rx="4"/>
+    <path d="M-14 212h320" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+    <g stroke="#0f5660" stroke-width="4">
+      <path d="M18 132h20M18 154h20M18 176h20"/>
+      <path d="M94 86h20M94 108h20M94 130h20M94 152h20"/>
+      <path d="M170 50h20M170 72h20M170 94h20M170 116h20M170 138h20"/>
+      <path d="M246 106h20M246 128h20M246 150h20"/>
+    </g>
+  </g>
+  <g transform="translate(590 168)">
+    <path d="M0 276V70L82 0l82 70v206" fill="none" stroke="#ffffff" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M0 70h164M35 276V106h94v170M47 142h70M47 178h70M47 214h70" stroke="#ffffff" stroke-width="7" stroke-linecap="round" opacity=".9"/>
+    <path d="M-36 276h236" stroke="#fdbb2d" stroke-width="13" stroke-linecap="round"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="108" cy="96" r="7"/>
+    <circle cx="810" cy="126" r="7"/>
+    <circle cx="742" cy="538" r="7"/>
+    <circle cx="116" cy="534" r="7"/>
+  </g>
+  <path d="M108 96h702v30M742 538H116v-26" fill="none" stroke="#ffffff" stroke-opacity=".42" stroke-width="2" stroke-dasharray="10 10"/>
+</svg>

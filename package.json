@@ -1,0 +1,14 @@
+{
+  "name": "cce-department-microsite",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extract:study-plan": "python3 scripts/extract-study-plan.py",
+    "prepare:media": "python3 scripts/prepare-media.py",
+    "dev": "node scripts/dev-server.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/dev-server.mjs dist",
+    "validate": "node scripts/validate-site.mjs"
+  }
+}

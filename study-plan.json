@@ -1,0 +1,4455 @@
+{
+  "program": "Civil Engineering Program / CCE Department",
+  "institution": "Nile University",
+  "sourceWorkbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+  "sheetsRead": [
+    "Major-1 (NARS)",
+    "Major-1 (Competencies)",
+    "CCE Major-1 (8 S)",
+    "CCE Major-1 (7 S)",
+    "CE Minor",
+    "List of Courses",
+    "Major-2 (NARS)",
+    "Major-2 (Competencies)",
+    "CCE Major-2 (8 S)",
+    "CCE Major-2 (7 S) (new)",
+    "Statistics"
+  ],
+  "publishedSheets": [
+    "CCE Major-2 (8 S)",
+    "CCE Major-1 (8 S)"
+  ],
+  "tracks": [
+    {
+      "id": "smart-structures",
+      "name": "Smart Structures Track",
+      "sourceTrackName": "Smart Structural Engineering (SSE)",
+      "sourceSheet": "CCE Major-2 (8 S)",
+      "careerDirection": "Structural engineering, smart infrastructure, monitoring, BIM, and resilient built assets.",
+      "semesters": [
+        {
+          "semester": 1,
+          "title": "Semester 1",
+          "term": "Fall Y1",
+          "year": "Year 1",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "EGL111",
+              "courseName": "English I",
+              "creditHours": 0,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Smart Structures Track",
+              "type": "university",
+              "preRequisites": "",
+              "description": "A communication course focused on clear academic and professional English for engineering settings.",
+              "skills": [
+                "Technical writing",
+                "Presentation structure",
+                "Professional vocabulary"
+              ],
+              "jobMarket": "Clear communication supports reports, proposals, site correspondence, and client-facing engineering work.",
+              "applications": [
+                "Engineering reports",
+                "Presentations",
+                "Professional emails"
+              ],
+              "careers": [
+                "Site engineer",
+                "Design engineer",
+                "Project coordinator"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 14
+              }
+            },
+            {
+              "courseCode": "CSC111",
+              "courseName": "Computer and Information Skills",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Smart Structures Track",
+              "type": "university",
+              "preRequisites": "",
+              "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+              "skills": [
+                "Computational thinking",
+                "Data handling",
+                "Engineering software workflows"
+              ],
+              "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+              "applications": [
+                "Automated calculations",
+                "Modeling workflows",
+                "Data-supported engineering decisions"
+              ],
+              "careers": [
+                "BIM engineer",
+                "Digital construction engineer",
+                "Structural analysis engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 15
+              }
+            },
+            {
+              "courseCode": "MTH111",
+              "courseName": "Analytical Geometry and Calculus I",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 16
+              }
+            },
+            {
+              "courseCode": "PHY111",
+              "courseName": "Physics I",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 17
+              }
+            },
+            {
+              "courseCode": "MEC111",
+              "courseName": "Engineering Mechanics I - Statics",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 18
+              }
+            },
+            {
+              "courseCode": "INT121",
+              "courseName": "Engineering Drawing",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+              "skills": [
+                "Technical drawing",
+                "Spatial interpretation",
+                "Survey and mapping workflows"
+              ],
+              "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+              "applications": [
+                "Site layouts",
+                "CAD drawings",
+                "GIS maps and survey documentation"
+              ],
+              "careers": [
+                "Surveying engineer",
+                "Site engineer",
+                "BIM/GIS specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 19
+              }
+            },
+            {
+              "courseCode": "INT E1",
+              "courseName": "Engineering History Electives",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Smart Structures Track",
+              "type": "elective",
+              "preRequisites": "",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 20
+              }
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "title": "Semester 2",
+          "term": "Spring Y1",
+          "year": "Year 1",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "EGL112",
+              "courseName": "English II",
+              "creditHours": 0,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Smart Structures Track",
+              "type": "university",
+              "preRequisites": "EGL111",
+              "description": "A communication course focused on clear academic and professional English for engineering settings.",
+              "skills": [
+                "Technical writing",
+                "Presentation structure",
+                "Professional vocabulary"
+              ],
+              "jobMarket": "Clear communication supports reports, proposals, site correspondence, and client-facing engineering work.",
+              "applications": [
+                "Engineering reports",
+                "Presentations",
+                "Professional emails"
+              ],
+              "careers": [
+                "Site engineer",
+                "Design engineer",
+                "Project coordinator"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 14
+              }
+            },
+            {
+              "courseCode": "HUM E1",
+              "courseName": "Humanities and Social Sciences Electives",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Smart Structures Track",
+              "type": "elective",
+              "preRequisites": "",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 15
+              }
+            },
+            {
+              "courseCode": "MTH112",
+              "courseName": "Calculus II",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "MTH111 (CO)",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 16
+              }
+            },
+            {
+              "courseCode": "MTH113",
+              "courseName": "Probability and Statistics",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 17
+              }
+            },
+            {
+              "courseCode": "CHM111",
+              "courseName": "Chemistry Principles",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 18
+              }
+            },
+            {
+              "courseCode": "ECE151",
+              "courseName": "Introduction to Programming",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+              "skills": [
+                "Computational thinking",
+                "Data handling",
+                "Engineering software workflows"
+              ],
+              "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+              "applications": [
+                "Automated calculations",
+                "Modeling workflows",
+                "Data-supported engineering decisions"
+              ],
+              "careers": [
+                "BIM engineer",
+                "Digital construction engineer",
+                "Structural analysis engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 19
+              }
+            },
+            {
+              "courseCode": "CVL211",
+              "courseName": "Structural Analysis-1",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "MEC111",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 20
+              }
+            }
+          ]
+        },
+        {
+          "semester": 3,
+          "title": "Semester 3",
+          "term": "Fall Y2",
+          "year": "Year 2",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "EGL213",
+              "courseName": "Writing Skills",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Smart Structures Track",
+              "type": "university",
+              "preRequisites": "EGL112",
+              "description": "A communication course focused on clear academic and professional English for engineering settings.",
+              "skills": [
+                "Technical writing",
+                "Presentation structure",
+                "Professional vocabulary"
+              ],
+              "jobMarket": "Clear communication supports reports, proposals, site correspondence, and client-facing engineering work.",
+              "applications": [
+                "Engineering reports",
+                "Presentations",
+                "Professional emails"
+              ],
+              "careers": [
+                "Site engineer",
+                "Design engineer",
+                "Project coordinator"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 26
+              }
+            },
+            {
+              "courseCode": "MTH214",
+              "courseName": "Linear Algebra & Introduction to Machine Learning",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+              "skills": [
+                "Computational thinking",
+                "Data handling",
+                "Engineering software workflows"
+              ],
+              "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+              "applications": [
+                "Automated calculations",
+                "Modeling workflows",
+                "Data-supported engineering decisions"
+              ],
+              "careers": [
+                "BIM engineer",
+                "Digital construction engineer",
+                "Structural analysis engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 27
+              }
+            },
+            {
+              "courseCode": "CVL281",
+              "courseName": "Introduction to Surveying",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+              "skills": [
+                "Technical drawing",
+                "Spatial interpretation",
+                "Survey and mapping workflows"
+              ],
+              "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+              "applications": [
+                "Site layouts",
+                "CAD drawings",
+                "GIS maps and survey documentation"
+              ],
+              "careers": [
+                "Surveying engineer",
+                "Site engineer",
+                "BIM/GIS specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 28
+              }
+            },
+            {
+              "courseCode": "CVL282",
+              "courseName": "Civil Engineering Drafting",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "INT121",
+              "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+              "skills": [
+                "Technical drawing",
+                "Spatial interpretation",
+                "Survey and mapping workflows"
+              ],
+              "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+              "applications": [
+                "Site layouts",
+                "CAD drawings",
+                "GIS maps and survey documentation"
+              ],
+              "careers": [
+                "Surveying engineer",
+                "Site engineer",
+                "BIM/GIS specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 29
+              }
+            },
+            {
+              "courseCode": "CVL212",
+              "courseName": "Structural Analysis-2",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL211",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 30
+              }
+            },
+            {
+              "courseCode": "CVL221",
+              "courseName": "Engineering Materials-1",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A materials-focused course dealing with testing, quality, durability, and performance in built assets.",
+              "skills": [
+                "Material selection",
+                "Testing interpretation",
+                "Quality-control reasoning"
+              ],
+              "jobMarket": "Materials knowledge supports safe construction, durability, sustainability, and performance monitoring.",
+              "applications": [
+                "Concrete testing",
+                "Quality-control plans",
+                "Smart material evaluation"
+              ],
+              "careers": [
+                "Materials engineer",
+                "Quality control engineer",
+                "Structural health monitoring engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 31
+              }
+            }
+          ]
+        },
+        {
+          "semester": 4,
+          "title": "Semester 4",
+          "term": "Spring Y2",
+          "year": "Year 2",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "EGL214",
+              "courseName": "Communication and Presentation Skills",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Smart Structures Track",
+              "type": "university",
+              "preRequisites": "EGL112",
+              "description": "A communication course focused on clear academic and professional English for engineering settings.",
+              "skills": [
+                "Technical writing",
+                "Presentation structure",
+                "Professional vocabulary"
+              ],
+              "jobMarket": "Clear communication supports reports, proposals, site correspondence, and client-facing engineering work.",
+              "applications": [
+                "Engineering reports",
+                "Presentations",
+                "Professional emails"
+              ],
+              "careers": [
+                "Site engineer",
+                "Design engineer",
+                "Project coordinator"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 26
+              }
+            },
+            {
+              "courseCode": "MTH215",
+              "courseName": "Differential Equations",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "MTH112",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 27
+              }
+            },
+            {
+              "courseCode": "CVL231",
+              "courseName": "Construction Project Management",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+              "skills": [
+                "Planning and control",
+                "Cost and quantity awareness",
+                "Commercial decision-making"
+              ],
+              "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+              "applications": [
+                "Schedules",
+                "Cost estimates",
+                "Contract administration and risk registers"
+              ],
+              "careers": [
+                "Project controls engineer",
+                "Quantity surveyor",
+                "Construction project manager"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 28
+              }
+            },
+            {
+              "courseCode": "CVL311",
+              "courseName": "Reinforced Concrete Design-1",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL211",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 29
+              }
+            },
+            {
+              "courseCode": "CVL321",
+              "courseName": "Engineering Materials-2",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL221",
+              "description": "A materials-focused course dealing with testing, quality, durability, and performance in built assets.",
+              "skills": [
+                "Material selection",
+                "Testing interpretation",
+                "Quality-control reasoning"
+              ],
+              "jobMarket": "Materials knowledge supports safe construction, durability, sustainability, and performance monitoring.",
+              "applications": [
+                "Concrete testing",
+                "Quality-control plans",
+                "Smart material evaluation"
+              ],
+              "careers": [
+                "Materials engineer",
+                "Quality control engineer",
+                "Structural health monitoring engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 30
+              }
+            },
+            {
+              "courseCode": "CVL331",
+              "courseName": "Construction Engineering & Methods",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A civil engineering course that develops applied knowledge related to construction engineering & methods.",
+              "skills": [
+                "Engineering problem solving",
+                "Technical documentation",
+                "Applied civil engineering judgment"
+              ],
+              "jobMarket": "The course supports the technical and professional foundation expected in entry-level civil engineering roles.",
+              "applications": [
+                "Design tasks",
+                "Site coordination",
+                "Engineering reports"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 31
+              }
+            },
+            {
+              "courseCode": "CVL391",
+              "courseName": "Practical Training-1",
+              "creditHours": 0,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Smart Structures Track",
+              "type": "practical",
+              "preRequisites": "",
+              "description": "A zero-credit field training requirement that links classroom study with supervised civil engineering practice.",
+              "skills": [
+                "Site observation",
+                "Field documentation",
+                "Professional communication"
+              ],
+              "jobMarket": "Employers value graduates who understand site routines, reporting, safety, and coordination between office and field teams.",
+              "applications": [
+                "Site diaries",
+                "Field reports",
+                "Coordination with contractors and consultants"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 32
+              }
+            }
+          ]
+        },
+        {
+          "semester": 5,
+          "title": "Semester 5",
+          "term": "Fall Y3",
+          "year": "Year 3",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "CVL312",
+              "courseName": "Soil Mechanics",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL221",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 38
+              }
+            },
+            {
+              "courseCode": "CVL313",
+              "courseName": "Structure Analysis-3",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Smart Structures Track",
+              "type": "track",
+              "preRequisites": "CVL212",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 39
+              }
+            },
+            {
+              "courseCode": "CVL314",
+              "courseName": "Reinforced Concrete Design-2",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL311",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 40
+              }
+            },
+            {
+              "courseCode": "CVL332",
+              "courseName": "Quantity Surveying, Estimation and Specifications",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Smart Structures Track",
+              "type": "track",
+              "preRequisites": "CVL231",
+              "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+              "skills": [
+                "Technical drawing",
+                "Spatial interpretation",
+                "Survey and mapping workflows"
+              ],
+              "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+              "applications": [
+                "Site layouts",
+                "CAD drawings",
+                "GIS maps and survey documentation"
+              ],
+              "careers": [
+                "Surveying engineer",
+                "Site engineer",
+                "BIM/GIS specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 41
+              }
+            },
+            {
+              "courseCode": "CVL341",
+              "courseName": "Fluid Mechanics",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "MTH215",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 42
+              }
+            },
+            {
+              "courseCode": "CVL461",
+              "courseName": "Smart Cities and Intelligent Systems",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Smart Structures Track",
+              "type": "track",
+              "preRequisites": "",
+              "description": "A digital and smart-infrastructure course connecting civil engineering with data, models, and connected built environments.",
+              "skills": [
+                "Digital modeling",
+                "Systems thinking",
+                "Technology evaluation"
+              ],
+              "jobMarket": "Modern civil engineering teams increasingly use BIM, smart-city systems, sensors, and analytics to plan and manage assets.",
+              "applications": [
+                "BIM coordination",
+                "Smart infrastructure concepts",
+                "Sensor-informed asset workflows"
+              ],
+              "careers": [
+                "BIM engineer",
+                "Smart infrastructure engineer",
+                "Digital construction specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 43
+              }
+            }
+          ]
+        },
+        {
+          "semester": 6,
+          "title": "Semester 6",
+          "term": "Spring Y3",
+          "year": "Year 3",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "CVL315",
+              "courseName": "Structural Steel Design",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL212",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 38
+              }
+            },
+            {
+              "courseCode": "CVL361",
+              "courseName": "Python for Structural Programming",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Smart Structures Track",
+              "type": "track",
+              "preRequisites": "ECE151",
+              "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+              "skills": [
+                "Computational thinking",
+                "Data handling",
+                "Engineering software workflows"
+              ],
+              "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+              "applications": [
+                "Automated calculations",
+                "Modeling workflows",
+                "Data-supported engineering decisions"
+              ],
+              "careers": [
+                "BIM engineer",
+                "Digital construction engineer",
+                "Structural analysis engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 39
+              }
+            },
+            {
+              "courseCode": "CVL392",
+              "courseName": "Practical Training-2",
+              "creditHours": 0,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Smart Structures Track",
+              "type": "practical",
+              "preRequisites": "CVL391 (CO)",
+              "description": "A zero-credit field training requirement that links classroom study with supervised civil engineering practice.",
+              "skills": [
+                "Site observation",
+                "Field documentation",
+                "Professional communication"
+              ],
+              "jobMarket": "Employers value graduates who understand site routines, reporting, safety, and coordination between office and field teams.",
+              "applications": [
+                "Site diaries",
+                "Field reports",
+                "Coordination with contractors and consultants"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 40
+              }
+            },
+            {
+              "courseCode": "CVL411",
+              "courseName": "Design & Construction of Foundations",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL312",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 41
+              }
+            },
+            {
+              "courseCode": "CVL412",
+              "courseName": "Reinforced Concrete Design-3",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Smart Structures Track",
+              "type": "track",
+              "preRequisites": "CVL314",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 42
+              }
+            },
+            {
+              "courseCode": "CVL441",
+              "courseName": "Fundamentals of Hydraulic Engineering",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL341",
+              "description": "An infrastructure systems course covering water, transport, and service networks relevant to civil engineering projects.",
+              "skills": [
+                "System analysis",
+                "Design calculation",
+                "Infrastructure planning awareness"
+              ],
+              "jobMarket": "Infrastructure agencies and consultants need engineers who understand transport, hydraulic, and public works systems.",
+              "applications": [
+                "Hydraulic calculations",
+                "Highway components",
+                "Infrastructure feasibility studies"
+              ],
+              "careers": [
+                "Transportation engineer",
+                "Hydraulic engineer",
+                "Infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 43
+              }
+            },
+            {
+              "courseCode": "CVL451",
+              "courseName": "Introduction to Transportation & Highway Engineering",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "An infrastructure systems course covering water, transport, and service networks relevant to civil engineering projects.",
+              "skills": [
+                "System analysis",
+                "Design calculation",
+                "Infrastructure planning awareness"
+              ],
+              "jobMarket": "Infrastructure agencies and consultants need engineers who understand transport, hydraulic, and public works systems.",
+              "applications": [
+                "Hydraulic calculations",
+                "Highway components",
+                "Infrastructure feasibility studies"
+              ],
+              "careers": [
+                "Transportation engineer",
+                "Hydraulic engineer",
+                "Infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 44
+              }
+            }
+          ]
+        },
+        {
+          "semester": 7,
+          "title": "Semester 7",
+          "term": "Fall Y4",
+          "year": "Year 4",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "MTH216",
+              "courseName": "Numerical Methods",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "MTH214 & MTH215",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 50
+              }
+            },
+            {
+              "courseCode": "CVL413",
+              "courseName": "Repair and Strengthening of Buildings",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Smart Structures Track",
+              "type": "track",
+              "preRequisites": "CVL411",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 51
+              }
+            },
+            {
+              "courseCode": "CVL421",
+              "courseName": "Smart Buildings and Materials",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Smart Structures Track",
+              "type": "track",
+              "preRequisites": "CVL321",
+              "description": "A materials-focused course dealing with testing, quality, durability, and performance in built assets.",
+              "skills": [
+                "Material selection",
+                "Testing interpretation",
+                "Quality-control reasoning"
+              ],
+              "jobMarket": "Materials knowledge supports safe construction, durability, sustainability, and performance monitoring.",
+              "applications": [
+                "Concrete testing",
+                "Quality-control plans",
+                "Smart material evaluation"
+              ],
+              "careers": [
+                "Materials engineer",
+                "Quality control engineer",
+                "Structural health monitoring engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 52
+              }
+            },
+            {
+              "courseCode": "MTH E",
+              "courseName": "Major Math Elective",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Smart Structures Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 53
+              }
+            },
+            {
+              "courseCode": "CVL E1",
+              "courseName": "Major Elective (1)",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Smart Structures Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 54
+              }
+            },
+            {
+              "courseCode": "CVL493",
+              "courseName": "Graduation Project I",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A capstone design and research experience where students integrate civil engineering knowledge into a supervised project.",
+              "skills": [
+                "Problem definition",
+                "Design integration",
+                "Technical reporting"
+              ],
+              "jobMarket": "Capstone work helps students demonstrate readiness for design offices, contractors, and infrastructure organizations.",
+              "applications": [
+                "Integrated design project",
+                "Technical presentation",
+                "Applied research or prototype work"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 55
+              }
+            }
+          ]
+        },
+        {
+          "semester": 8,
+          "title": "Semester 8",
+          "term": "Spring Y4",
+          "year": "Year 4",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "CVL E2",
+              "courseName": "Major Elective (2)",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Smart Structures Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 50
+              }
+            },
+            {
+              "courseCode": "CVL E3",
+              "courseName": "Major Elective (3)",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Smart Structures Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 51
+              }
+            },
+            {
+              "courseCode": "CVL E4",
+              "courseName": "Major Elective (4)",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Smart Structures Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 52
+              }
+            },
+            {
+              "courseCode": "INT E2",
+              "courseName": "Sustainable Development Electives",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Smart Structures Track",
+              "type": "elective",
+              "preRequisites": "",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 53
+              }
+            },
+            {
+              "courseCode": "EBS111",
+              "courseName": "Selected Topics in Entrepreneurship",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A civil engineering course that develops applied knowledge related to selected topics in entrepreneurship.",
+              "skills": [
+                "Engineering problem solving",
+                "Technical documentation",
+                "Applied civil engineering judgment"
+              ],
+              "jobMarket": "The course supports the technical and professional foundation expected in entry-level civil engineering roles.",
+              "applications": [
+                "Design tasks",
+                "Site coordination",
+                "Engineering reports"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 54
+              }
+            },
+            {
+              "courseCode": "CVL494",
+              "courseName": "Graduation Project II",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Smart Structures Track",
+              "type": "core",
+              "preRequisites": "CVL493 (CO)",
+              "description": "A capstone design and research experience where students integrate civil engineering knowledge into a supervised project.",
+              "skills": [
+                "Problem definition",
+                "Design integration",
+                "Technical reporting"
+              ],
+              "jobMarket": "Capstone work helps students demonstrate readiness for design offices, contractors, and infrastructure organizations.",
+              "applications": [
+                "Integrated design project",
+                "Technical presentation",
+                "Applied research or prototype work"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "BIM engineer",
+                "Smart infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-2 (8 S)",
+                "row": 55
+              }
+            }
+          ]
+        }
+      ],
+      "electiveOptions": {
+        "majorElectives": [
+          {
+            "courseCode": "CVL381",
+            "courseName": "Computer Applications in Civil Engineering",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+            "skills": [
+              "Computational thinking",
+              "Data handling",
+              "Engineering software workflows"
+            ],
+            "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+            "applications": [
+              "Automated calculations",
+              "Modeling workflows",
+              "Data-supported engineering decisions"
+            ],
+            "careers": [
+              "BIM engineer",
+              "Digital construction engineer",
+              "Structural analysis engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 61
+            }
+          },
+          {
+            "courseCode": "CVL333",
+            "courseName": "Civil Engineering Economics",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+            "skills": [
+              "Planning and control",
+              "Cost and quantity awareness",
+              "Commercial decision-making"
+            ],
+            "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+            "applications": [
+              "Schedules",
+              "Cost estimates",
+              "Contract administration and risk registers"
+            ],
+            "careers": [
+              "Project controls engineer",
+              "Quantity surveyor",
+              "Construction project manager"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 62
+            }
+          },
+          {
+            "courseCode": "CVL334",
+            "courseName": "Construction Planning & Scheduling",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+            "skills": [
+              "Planning and control",
+              "Cost and quantity awareness",
+              "Commercial decision-making"
+            ],
+            "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+            "applications": [
+              "Schedules",
+              "Cost estimates",
+              "Contract administration and risk registers"
+            ],
+            "careers": [
+              "Project controls engineer",
+              "Quantity surveyor",
+              "Construction project manager"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 63
+            }
+          },
+          {
+            "courseCode": "CVL481",
+            "courseName": "Advanced Surveying and GIS",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "CVL281",
+            "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+            "skills": [
+              "Technical drawing",
+              "Spatial interpretation",
+              "Survey and mapping workflows"
+            ],
+            "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+            "applications": [
+              "Site layouts",
+              "CAD drawings",
+              "GIS maps and survey documentation"
+            ],
+            "careers": [
+              "Surveying engineer",
+              "Site engineer",
+              "BIM/GIS specialist"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 64
+            }
+          },
+          {
+            "courseCode": "CVL422",
+            "courseName": "Quality Control of Smart Materials",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A materials-focused course dealing with testing, quality, durability, and performance in built assets.",
+            "skills": [
+              "Material selection",
+              "Testing interpretation",
+              "Quality-control reasoning"
+            ],
+            "jobMarket": "Materials knowledge supports safe construction, durability, sustainability, and performance monitoring.",
+            "applications": [
+              "Concrete testing",
+              "Quality-control plans",
+              "Smart material evaluation"
+            ],
+            "careers": [
+              "Materials engineer",
+              "Quality control engineer",
+              "Structural health monitoring engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 65
+            }
+          },
+          {
+            "courseCode": "CVL435",
+            "courseName": "Real Estate & Urban Planning Development",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+            "skills": [
+              "Planning and control",
+              "Cost and quantity awareness",
+              "Commercial decision-making"
+            ],
+            "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+            "applications": [
+              "Schedules",
+              "Cost estimates",
+              "Contract administration and risk registers"
+            ],
+            "careers": [
+              "Project controls engineer",
+              "Quantity surveyor",
+              "Construction project manager"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 66
+            }
+          },
+          {
+            "courseCode": "CVL437",
+            "courseName": "Building Information Modeling",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A digital and smart-infrastructure course connecting civil engineering with data, models, and connected built environments.",
+            "skills": [
+              "Digital modeling",
+              "Systems thinking",
+              "Technology evaluation"
+            ],
+            "jobMarket": "Modern civil engineering teams increasingly use BIM, smart-city systems, sensors, and analytics to plan and manage assets.",
+            "applications": [
+              "BIM coordination",
+              "Smart infrastructure concepts",
+              "Sensor-informed asset workflows"
+            ],
+            "careers": [
+              "BIM engineer",
+              "Smart infrastructure engineer",
+              "Digital construction specialist"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 67
+            }
+          },
+          {
+            "courseCode": "CVL462",
+            "courseName": "GIS in Smart Structures and Systems",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+            "skills": [
+              "Technical drawing",
+              "Spatial interpretation",
+              "Survey and mapping workflows"
+            ],
+            "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+            "applications": [
+              "Site layouts",
+              "CAD drawings",
+              "GIS maps and survey documentation"
+            ],
+            "careers": [
+              "Surveying engineer",
+              "Site engineer",
+              "BIM/GIS specialist"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 68
+            }
+          },
+          {
+            "courseCode": "IND252",
+            "courseName": "Operation Research I",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "MTH214",
+            "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+            "skills": [
+              "Planning and control",
+              "Cost and quantity awareness",
+              "Commercial decision-making"
+            ],
+            "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+            "applications": [
+              "Schedules",
+              "Cost estimates",
+              "Contract administration and risk registers"
+            ],
+            "careers": [
+              "Project controls engineer",
+              "Quantity surveyor",
+              "Construction project manager"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 69
+            }
+          }
+        ],
+        "mathElectives": [
+          {
+            "courseCode": "MTH317",
+            "courseName": "Introduction to Mathematical Optimization",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "MTH214",
+            "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+            "skills": [
+              "Quantitative modeling",
+              "Problem formulation",
+              "Analytical reasoning"
+            ],
+            "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+            "applications": [
+              "Load-response calculations",
+              "Optimization studies",
+              "Engineering data analysis"
+            ],
+            "careers": [
+              "Structural engineer",
+              "Infrastructure analyst",
+              "Planning engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 74
+            }
+          },
+          {
+            "courseCode": "MTH318",
+            "courseName": "Advanced Numerical Analysis",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "MTH112 & MTH113",
+            "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+            "skills": [
+              "Quantitative modeling",
+              "Problem formulation",
+              "Analytical reasoning"
+            ],
+            "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+            "applications": [
+              "Load-response calculations",
+              "Optimization studies",
+              "Engineering data analysis"
+            ],
+            "careers": [
+              "Structural engineer",
+              "Infrastructure analyst",
+              "Planning engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 75
+            }
+          },
+          {
+            "courseCode": "MTH319",
+            "courseName": "Advanced Probability and Statistics",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Smart Structures Track",
+            "type": "elective",
+            "preRequisites": "MTH216",
+            "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+            "skills": [
+              "Quantitative modeling",
+              "Problem formulation",
+              "Analytical reasoning"
+            ],
+            "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+            "applications": [
+              "Load-response calculations",
+              "Optimization studies",
+              "Engineering data analysis"
+            ],
+            "careers": [
+              "Structural engineer",
+              "Infrastructure analyst",
+              "Planning engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-2 (8 S)",
+              "row": 76
+            }
+          }
+        ]
+      },
+      "totalCreditHours": 144,
+      "numberOfSemesters": 8,
+      "zeroCreditRequirements": 4,
+      "typeCounts": {
+        "university": 5,
+        "core": 30,
+        "elective": 8,
+        "practical": 2,
+        "track": 7
+      },
+      "validation": {
+        "expectedTotalCreditHours": 144,
+        "equalsExpectedTotal": true
+      }
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management Track",
+      "sourceTrackName": "Construction Engineering & Management (CEM)",
+      "sourceSheet": "CCE Major-1 (8 S)",
+      "careerDirection": "Construction planning, project delivery, contracts, cost control, and infrastructure management.",
+      "semesters": [
+        {
+          "semester": 1,
+          "title": "Semester 1",
+          "term": "Fall Y1",
+          "year": "Year 1",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "EGL111",
+              "courseName": "English I",
+              "creditHours": 0,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Project Management Track",
+              "type": "university",
+              "preRequisites": "",
+              "description": "A communication course focused on clear academic and professional English for engineering settings.",
+              "skills": [
+                "Technical writing",
+                "Presentation structure",
+                "Professional vocabulary"
+              ],
+              "jobMarket": "Clear communication supports reports, proposals, site correspondence, and client-facing engineering work.",
+              "applications": [
+                "Engineering reports",
+                "Presentations",
+                "Professional emails"
+              ],
+              "careers": [
+                "Site engineer",
+                "Design engineer",
+                "Project coordinator"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 14
+              }
+            },
+            {
+              "courseCode": "CSC111",
+              "courseName": "Computer and Information Skills",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Project Management Track",
+              "type": "university",
+              "preRequisites": "",
+              "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+              "skills": [
+                "Computational thinking",
+                "Data handling",
+                "Engineering software workflows"
+              ],
+              "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+              "applications": [
+                "Automated calculations",
+                "Modeling workflows",
+                "Data-supported engineering decisions"
+              ],
+              "careers": [
+                "BIM engineer",
+                "Digital construction engineer",
+                "Structural analysis engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 15
+              }
+            },
+            {
+              "courseCode": "MTH111",
+              "courseName": "Analytical Geometry and Calculus I",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 16
+              }
+            },
+            {
+              "courseCode": "PHY111",
+              "courseName": "Physics I",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 17
+              }
+            },
+            {
+              "courseCode": "MEC111",
+              "courseName": "Engineering Mechanics I - Statics",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 18
+              }
+            },
+            {
+              "courseCode": "INT121",
+              "courseName": "Engineering Drawing",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+              "skills": [
+                "Technical drawing",
+                "Spatial interpretation",
+                "Survey and mapping workflows"
+              ],
+              "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+              "applications": [
+                "Site layouts",
+                "CAD drawings",
+                "GIS maps and survey documentation"
+              ],
+              "careers": [
+                "Surveying engineer",
+                "Site engineer",
+                "BIM/GIS specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 19
+              }
+            },
+            {
+              "courseCode": "INT E1",
+              "courseName": "Engineering History Electives",
+              "creditHours": 3,
+              "semester": 1,
+              "semesterTitle": "Semester 1",
+              "term": "Fall Y1",
+              "track": "Project Management Track",
+              "type": "elective",
+              "preRequisites": "",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 20
+              }
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "title": "Semester 2",
+          "term": "Spring Y1",
+          "year": "Year 1",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "EGL112",
+              "courseName": "English II",
+              "creditHours": 0,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Project Management Track",
+              "type": "university",
+              "preRequisites": "EGL111",
+              "description": "A communication course focused on clear academic and professional English for engineering settings.",
+              "skills": [
+                "Technical writing",
+                "Presentation structure",
+                "Professional vocabulary"
+              ],
+              "jobMarket": "Clear communication supports reports, proposals, site correspondence, and client-facing engineering work.",
+              "applications": [
+                "Engineering reports",
+                "Presentations",
+                "Professional emails"
+              ],
+              "careers": [
+                "Site engineer",
+                "Design engineer",
+                "Project coordinator"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 14
+              }
+            },
+            {
+              "courseCode": "HUM E1",
+              "courseName": "Humanities and Social Sciences Electives",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Project Management Track",
+              "type": "elective",
+              "preRequisites": "",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 15
+              }
+            },
+            {
+              "courseCode": "MTH112",
+              "courseName": "Calculus II",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "MTH111 (CO)",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 16
+              }
+            },
+            {
+              "courseCode": "MTH113",
+              "courseName": "Probability and Statistics",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 17
+              }
+            },
+            {
+              "courseCode": "CHM111",
+              "courseName": "Chemistry Principles",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 18
+              }
+            },
+            {
+              "courseCode": "ECE151",
+              "courseName": "Introduction to Programming",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+              "skills": [
+                "Computational thinking",
+                "Data handling",
+                "Engineering software workflows"
+              ],
+              "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+              "applications": [
+                "Automated calculations",
+                "Modeling workflows",
+                "Data-supported engineering decisions"
+              ],
+              "careers": [
+                "BIM engineer",
+                "Digital construction engineer",
+                "Structural analysis engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 19
+              }
+            },
+            {
+              "courseCode": "CVL211",
+              "courseName": "Structural Analysis-1",
+              "creditHours": 3,
+              "semester": 2,
+              "semesterTitle": "Semester 2",
+              "term": "Spring Y1",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "MEC111",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 20
+              }
+            }
+          ]
+        },
+        {
+          "semester": 3,
+          "title": "Semester 3",
+          "term": "Fall Y2",
+          "year": "Year 2",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "EGL213",
+              "courseName": "Writing Skills",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Project Management Track",
+              "type": "university",
+              "preRequisites": "EGL112",
+              "description": "A communication course focused on clear academic and professional English for engineering settings.",
+              "skills": [
+                "Technical writing",
+                "Presentation structure",
+                "Professional vocabulary"
+              ],
+              "jobMarket": "Clear communication supports reports, proposals, site correspondence, and client-facing engineering work.",
+              "applications": [
+                "Engineering reports",
+                "Presentations",
+                "Professional emails"
+              ],
+              "careers": [
+                "Site engineer",
+                "Design engineer",
+                "Project coordinator"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 26
+              }
+            },
+            {
+              "courseCode": "MTH214",
+              "courseName": "Linear Algebra & Introduction to Machine Learning",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+              "skills": [
+                "Computational thinking",
+                "Data handling",
+                "Engineering software workflows"
+              ],
+              "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+              "applications": [
+                "Automated calculations",
+                "Modeling workflows",
+                "Data-supported engineering decisions"
+              ],
+              "careers": [
+                "BIM engineer",
+                "Digital construction engineer",
+                "Structural analysis engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 27
+              }
+            },
+            {
+              "courseCode": "CVL281",
+              "courseName": "Introduction to Surveying",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+              "skills": [
+                "Technical drawing",
+                "Spatial interpretation",
+                "Survey and mapping workflows"
+              ],
+              "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+              "applications": [
+                "Site layouts",
+                "CAD drawings",
+                "GIS maps and survey documentation"
+              ],
+              "careers": [
+                "Surveying engineer",
+                "Site engineer",
+                "BIM/GIS specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 28
+              }
+            },
+            {
+              "courseCode": "CVL282",
+              "courseName": "Civil Engineering Drafting",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "INT121",
+              "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+              "skills": [
+                "Technical drawing",
+                "Spatial interpretation",
+                "Survey and mapping workflows"
+              ],
+              "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+              "applications": [
+                "Site layouts",
+                "CAD drawings",
+                "GIS maps and survey documentation"
+              ],
+              "careers": [
+                "Surveying engineer",
+                "Site engineer",
+                "BIM/GIS specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 29
+              }
+            },
+            {
+              "courseCode": "CVL212",
+              "courseName": "Structural Analysis-2",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL211",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 30
+              }
+            },
+            {
+              "courseCode": "CVL221",
+              "courseName": "Engineering Materials-1",
+              "creditHours": 3,
+              "semester": 3,
+              "semesterTitle": "Semester 3",
+              "term": "Fall Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A materials-focused course dealing with testing, quality, durability, and performance in built assets.",
+              "skills": [
+                "Material selection",
+                "Testing interpretation",
+                "Quality-control reasoning"
+              ],
+              "jobMarket": "Materials knowledge supports safe construction, durability, sustainability, and performance monitoring.",
+              "applications": [
+                "Concrete testing",
+                "Quality-control plans",
+                "Smart material evaluation"
+              ],
+              "careers": [
+                "Materials engineer",
+                "Quality control engineer",
+                "Structural health monitoring engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 31
+              }
+            }
+          ]
+        },
+        {
+          "semester": 4,
+          "title": "Semester 4",
+          "term": "Spring Y2",
+          "year": "Year 2",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "EGL214",
+              "courseName": "Communication and Presentation Skills",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Project Management Track",
+              "type": "university",
+              "preRequisites": "EGL112",
+              "description": "A communication course focused on clear academic and professional English for engineering settings.",
+              "skills": [
+                "Technical writing",
+                "Presentation structure",
+                "Professional vocabulary"
+              ],
+              "jobMarket": "Clear communication supports reports, proposals, site correspondence, and client-facing engineering work.",
+              "applications": [
+                "Engineering reports",
+                "Presentations",
+                "Professional emails"
+              ],
+              "careers": [
+                "Site engineer",
+                "Design engineer",
+                "Project coordinator"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 26
+              }
+            },
+            {
+              "courseCode": "MTH215",
+              "courseName": "Differential Equations",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "MTH112",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 27
+              }
+            },
+            {
+              "courseCode": "CVL231",
+              "courseName": "Construction Project Management",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+              "skills": [
+                "Planning and control",
+                "Cost and quantity awareness",
+                "Commercial decision-making"
+              ],
+              "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+              "applications": [
+                "Schedules",
+                "Cost estimates",
+                "Contract administration and risk registers"
+              ],
+              "careers": [
+                "Project controls engineer",
+                "Quantity surveyor",
+                "Construction project manager"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 28
+              }
+            },
+            {
+              "courseCode": "CVL311",
+              "courseName": "Reinforced Concrete Design-1",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL211",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 29
+              }
+            },
+            {
+              "courseCode": "CVL321",
+              "courseName": "Engineering Materials-2",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL221",
+              "description": "A materials-focused course dealing with testing, quality, durability, and performance in built assets.",
+              "skills": [
+                "Material selection",
+                "Testing interpretation",
+                "Quality-control reasoning"
+              ],
+              "jobMarket": "Materials knowledge supports safe construction, durability, sustainability, and performance monitoring.",
+              "applications": [
+                "Concrete testing",
+                "Quality-control plans",
+                "Smart material evaluation"
+              ],
+              "careers": [
+                "Materials engineer",
+                "Quality control engineer",
+                "Structural health monitoring engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 30
+              }
+            },
+            {
+              "courseCode": "CVL331",
+              "courseName": "Construction Engineering & Methods",
+              "creditHours": 3,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A civil engineering course that develops applied knowledge related to construction engineering & methods.",
+              "skills": [
+                "Engineering problem solving",
+                "Technical documentation",
+                "Applied civil engineering judgment"
+              ],
+              "jobMarket": "The course supports the technical and professional foundation expected in entry-level civil engineering roles.",
+              "applications": [
+                "Design tasks",
+                "Site coordination",
+                "Engineering reports"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 31
+              }
+            },
+            {
+              "courseCode": "CVL391",
+              "courseName": "Practical Training-1",
+              "creditHours": 0,
+              "semester": 4,
+              "semesterTitle": "Semester 4",
+              "term": "Spring Y2",
+              "track": "Project Management Track",
+              "type": "practical",
+              "preRequisites": "",
+              "description": "A zero-credit field training requirement that links classroom study with supervised civil engineering practice.",
+              "skills": [
+                "Site observation",
+                "Field documentation",
+                "Professional communication"
+              ],
+              "jobMarket": "Employers value graduates who understand site routines, reporting, safety, and coordination between office and field teams.",
+              "applications": [
+                "Site diaries",
+                "Field reports",
+                "Coordination with contractors and consultants"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 32
+              }
+            }
+          ]
+        },
+        {
+          "semester": 5,
+          "title": "Semester 5",
+          "term": "Fall Y3",
+          "year": "Year 3",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "CVL312",
+              "courseName": "Soil Mechanics",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL221",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 38
+              }
+            },
+            {
+              "courseCode": "CVL314",
+              "courseName": "Reinforced Concrete Design-2",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL311",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 39
+              }
+            },
+            {
+              "courseCode": "CVL332",
+              "courseName": "Quantity Surveying, Estimation and Specifications",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Project Management Track",
+              "type": "track",
+              "preRequisites": "CVL231",
+              "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+              "skills": [
+                "Technical drawing",
+                "Spatial interpretation",
+                "Survey and mapping workflows"
+              ],
+              "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+              "applications": [
+                "Site layouts",
+                "CAD drawings",
+                "GIS maps and survey documentation"
+              ],
+              "careers": [
+                "Surveying engineer",
+                "Site engineer",
+                "BIM/GIS specialist"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 40
+              }
+            },
+            {
+              "courseCode": "CVL333",
+              "courseName": "Civil Engineering Economics",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Project Management Track",
+              "type": "track",
+              "preRequisites": "",
+              "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+              "skills": [
+                "Planning and control",
+                "Cost and quantity awareness",
+                "Commercial decision-making"
+              ],
+              "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+              "applications": [
+                "Schedules",
+                "Cost estimates",
+                "Contract administration and risk registers"
+              ],
+              "careers": [
+                "Project controls engineer",
+                "Quantity surveyor",
+                "Construction project manager"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 41
+              }
+            },
+            {
+              "courseCode": "CVL341",
+              "courseName": "Fluid Mechanics",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "MTH215",
+              "description": "A foundational science course for understanding physical behavior, forces, materials, motion, and engineering systems.",
+              "skills": [
+                "Scientific reasoning",
+                "Free-body diagrams",
+                "Material and force concepts"
+              ],
+              "jobMarket": "These foundations are required for safe structural, materials, geotechnical, and construction decisions.",
+              "applications": [
+                "Load paths",
+                "Material behavior",
+                "Laboratory interpretation"
+              ],
+              "careers": [
+                "Civil engineer",
+                "Structural engineer",
+                "Materials testing engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 42
+              }
+            },
+            {
+              "courseCode": "CVL431",
+              "courseName": "Value & Risk Management in Construction",
+              "creditHours": 3,
+              "semester": 5,
+              "semesterTitle": "Semester 5",
+              "term": "Fall Y3",
+              "track": "Project Management Track",
+              "type": "track",
+              "preRequisites": "CVL331",
+              "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+              "skills": [
+                "Planning and control",
+                "Cost and quantity awareness",
+                "Commercial decision-making"
+              ],
+              "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+              "applications": [
+                "Schedules",
+                "Cost estimates",
+                "Contract administration and risk registers"
+              ],
+              "careers": [
+                "Project controls engineer",
+                "Quantity surveyor",
+                "Construction project manager"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 43
+              }
+            }
+          ]
+        },
+        {
+          "semester": 6,
+          "title": "Semester 6",
+          "term": "Spring Y3",
+          "year": "Year 3",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "CVL315",
+              "courseName": "Structural Steel Design",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL212",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 38
+              }
+            },
+            {
+              "courseCode": "CVL334",
+              "courseName": "Construction Planning & Scheduling",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Project Management Track",
+              "type": "track",
+              "preRequisites": "",
+              "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+              "skills": [
+                "Planning and control",
+                "Cost and quantity awareness",
+                "Commercial decision-making"
+              ],
+              "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+              "applications": [
+                "Schedules",
+                "Cost estimates",
+                "Contract administration and risk registers"
+              ],
+              "careers": [
+                "Project controls engineer",
+                "Quantity surveyor",
+                "Construction project manager"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 39
+              }
+            },
+            {
+              "courseCode": "CVL392",
+              "courseName": "Practical Training-2",
+              "creditHours": 0,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Project Management Track",
+              "type": "practical",
+              "preRequisites": "CVL391 (CO)",
+              "description": "A zero-credit field training requirement that links classroom study with supervised civil engineering practice.",
+              "skills": [
+                "Site observation",
+                "Field documentation",
+                "Professional communication"
+              ],
+              "jobMarket": "Employers value graduates who understand site routines, reporting, safety, and coordination between office and field teams.",
+              "applications": [
+                "Site diaries",
+                "Field reports",
+                "Coordination with contractors and consultants"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 40
+              }
+            },
+            {
+              "courseCode": "CVL411",
+              "courseName": "Design & Construction of Foundations",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL312",
+              "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+              "skills": [
+                "Load analysis",
+                "Design checks",
+                "Code-aware engineering judgment"
+              ],
+              "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+              "applications": [
+                "Building frames",
+                "Foundation systems",
+                "Structural rehabilitation"
+              ],
+              "careers": [
+                "Structural design engineer",
+                "Geotechnical engineer",
+                "Technical office engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 41
+              }
+            },
+            {
+              "courseCode": "CVL432",
+              "courseName": "Contracts & Commercial Management",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Project Management Track",
+              "type": "track",
+              "preRequisites": "",
+              "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+              "skills": [
+                "Planning and control",
+                "Cost and quantity awareness",
+                "Commercial decision-making"
+              ],
+              "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+              "applications": [
+                "Schedules",
+                "Cost estimates",
+                "Contract administration and risk registers"
+              ],
+              "careers": [
+                "Project controls engineer",
+                "Quantity surveyor",
+                "Construction project manager"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 42
+              }
+            },
+            {
+              "courseCode": "CVL441",
+              "courseName": "Fundamentals of Hydraulic Engineering",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL341",
+              "description": "An infrastructure systems course covering water, transport, and service networks relevant to civil engineering projects.",
+              "skills": [
+                "System analysis",
+                "Design calculation",
+                "Infrastructure planning awareness"
+              ],
+              "jobMarket": "Infrastructure agencies and consultants need engineers who understand transport, hydraulic, and public works systems.",
+              "applications": [
+                "Hydraulic calculations",
+                "Highway components",
+                "Infrastructure feasibility studies"
+              ],
+              "careers": [
+                "Transportation engineer",
+                "Hydraulic engineer",
+                "Infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 43
+              }
+            },
+            {
+              "courseCode": "CVL451",
+              "courseName": "Introduction to Transportation & Highway Engineering",
+              "creditHours": 3,
+              "semester": 6,
+              "semesterTitle": "Semester 6",
+              "term": "Spring Y3",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "An infrastructure systems course covering water, transport, and service networks relevant to civil engineering projects.",
+              "skills": [
+                "System analysis",
+                "Design calculation",
+                "Infrastructure planning awareness"
+              ],
+              "jobMarket": "Infrastructure agencies and consultants need engineers who understand transport, hydraulic, and public works systems.",
+              "applications": [
+                "Hydraulic calculations",
+                "Highway components",
+                "Infrastructure feasibility studies"
+              ],
+              "careers": [
+                "Transportation engineer",
+                "Hydraulic engineer",
+                "Infrastructure engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 44
+              }
+            }
+          ]
+        },
+        {
+          "semester": 7,
+          "title": "Semester 7",
+          "term": "Fall Y4",
+          "year": "Year 4",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "MTH216",
+              "courseName": "Numerical Methods",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "MTH214 & MTH215",
+              "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+              "skills": [
+                "Quantitative modeling",
+                "Problem formulation",
+                "Analytical reasoning"
+              ],
+              "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+              "applications": [
+                "Load-response calculations",
+                "Optimization studies",
+                "Engineering data analysis"
+              ],
+              "careers": [
+                "Structural engineer",
+                "Infrastructure analyst",
+                "Planning engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 50
+              }
+            },
+            {
+              "courseCode": "CVL433",
+              "courseName": "Infrastructure Asset Management",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Project Management Track",
+              "type": "track",
+              "preRequisites": "CVL431",
+              "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+              "skills": [
+                "Planning and control",
+                "Cost and quantity awareness",
+                "Commercial decision-making"
+              ],
+              "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+              "applications": [
+                "Schedules",
+                "Cost estimates",
+                "Contract administration and risk registers"
+              ],
+              "careers": [
+                "Project controls engineer",
+                "Quantity surveyor",
+                "Construction project manager"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 51
+              }
+            },
+            {
+              "courseCode": "CVL434",
+              "courseName": "Strategic Management in Construction",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Project Management Track",
+              "type": "track",
+              "preRequisites": "CVL432",
+              "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+              "skills": [
+                "Planning and control",
+                "Cost and quantity awareness",
+                "Commercial decision-making"
+              ],
+              "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+              "applications": [
+                "Schedules",
+                "Cost estimates",
+                "Contract administration and risk registers"
+              ],
+              "careers": [
+                "Project controls engineer",
+                "Quantity surveyor",
+                "Construction project manager"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 52
+              }
+            },
+            {
+              "courseCode": "MTH E",
+              "courseName": "Major Math Elective",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Project Management Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 53
+              }
+            },
+            {
+              "courseCode": "CVL E1",
+              "courseName": "Major Elective (1)",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Project Management Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 54
+              }
+            },
+            {
+              "courseCode": "CVL493",
+              "courseName": "Graduation Project I",
+              "creditHours": 3,
+              "semester": 7,
+              "semesterTitle": "Semester 7",
+              "term": "Fall Y4",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A capstone design and research experience where students integrate civil engineering knowledge into a supervised project.",
+              "skills": [
+                "Problem definition",
+                "Design integration",
+                "Technical reporting"
+              ],
+              "jobMarket": "Capstone work helps students demonstrate readiness for design offices, contractors, and infrastructure organizations.",
+              "applications": [
+                "Integrated design project",
+                "Technical presentation",
+                "Applied research or prototype work"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 55
+              }
+            }
+          ]
+        },
+        {
+          "semester": 8,
+          "title": "Semester 8",
+          "term": "Spring Y4",
+          "year": "Year 4",
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "courseCode": "CVL E2",
+              "courseName": "Major Elective (2)",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Project Management Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 50
+              }
+            },
+            {
+              "courseCode": "CVL E3",
+              "courseName": "Major Elective (3)",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Project Management Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 51
+              }
+            },
+            {
+              "courseCode": "CVL E4",
+              "courseName": "Major Elective (4)",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Project Management Track",
+              "type": "elective",
+              "preRequisites": "List",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 52
+              }
+            },
+            {
+              "courseCode": "INT E2",
+              "courseName": "Sustainable Development Electives",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Project Management Track",
+              "type": "elective",
+              "preRequisites": "",
+              "description": "A choice-based requirement that lets students focus on an approved civil engineering or supporting technical topic.",
+              "skills": [
+                "Specialized study",
+                "Academic planning",
+                "Applied project thinking"
+              ],
+              "jobMarket": "Electives help students build a targeted profile for internships, graduation projects, and early-career roles.",
+              "applications": [
+                "Specialized design work",
+                "Software-supported analysis",
+                "Applied project studies"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 53
+              }
+            },
+            {
+              "courseCode": "EBS111",
+              "courseName": "Selected Topics in Entrepreneurship",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "",
+              "description": "A civil engineering course that develops applied knowledge related to selected topics in entrepreneurship.",
+              "skills": [
+                "Engineering problem solving",
+                "Technical documentation",
+                "Applied civil engineering judgment"
+              ],
+              "jobMarket": "The course supports the technical and professional foundation expected in entry-level civil engineering roles.",
+              "applications": [
+                "Design tasks",
+                "Site coordination",
+                "Engineering reports"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 54
+              }
+            },
+            {
+              "courseCode": "CVL494",
+              "courseName": "Graduation Project II",
+              "creditHours": 3,
+              "semester": 8,
+              "semesterTitle": "Semester 8",
+              "term": "Spring Y4",
+              "track": "Project Management Track",
+              "type": "core",
+              "preRequisites": "CVL493 (CO)",
+              "description": "A capstone design and research experience where students integrate civil engineering knowledge into a supervised project.",
+              "skills": [
+                "Problem definition",
+                "Design integration",
+                "Technical reporting"
+              ],
+              "jobMarket": "Capstone work helps students demonstrate readiness for design offices, contractors, and infrastructure organizations.",
+              "applications": [
+                "Integrated design project",
+                "Technical presentation",
+                "Applied research or prototype work"
+              ],
+              "careers": [
+                "Planning engineer",
+                "Project controls engineer",
+                "Construction project engineer"
+              ],
+              "source": {
+                "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+                "sheet": "CCE Major-1 (8 S)",
+                "row": 55
+              }
+            }
+          ]
+        }
+      ],
+      "electiveOptions": {
+        "majorElectives": [
+          {
+            "courseCode": "CVL381",
+            "courseName": "Computer Applications in Civil Engineering",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "An applied computing course that builds digital problem-solving skills for civil engineering analysis and documentation.",
+            "skills": [
+              "Computational thinking",
+              "Data handling",
+              "Engineering software workflows"
+            ],
+            "jobMarket": "Digital skills are increasingly expected in design offices, construction teams, and infrastructure analytics roles.",
+            "applications": [
+              "Automated calculations",
+              "Modeling workflows",
+              "Data-supported engineering decisions"
+            ],
+            "careers": [
+              "BIM engineer",
+              "Digital construction engineer",
+              "Structural analysis engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 61
+            }
+          },
+          {
+            "courseCode": "CVL481",
+            "courseName": "Advanced Surveying and GIS",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "CVL281",
+            "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+            "skills": [
+              "Technical drawing",
+              "Spatial interpretation",
+              "Survey and mapping workflows"
+            ],
+            "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+            "applications": [
+              "Site layouts",
+              "CAD drawings",
+              "GIS maps and survey documentation"
+            ],
+            "careers": [
+              "Surveying engineer",
+              "Site engineer",
+              "BIM/GIS specialist"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 62
+            }
+          },
+          {
+            "courseCode": "CVL413",
+            "courseName": "Repair and Strengthening of Buildings",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "CVL411",
+            "description": "A structural and geotechnical design course concerned with how civil infrastructure carries loads safely and efficiently.",
+            "skills": [
+              "Load analysis",
+              "Design checks",
+              "Code-aware engineering judgment"
+            ],
+            "jobMarket": "Consultants, contractors, and public agencies need engineers who can evaluate buildings, foundations, and structural systems.",
+            "applications": [
+              "Building frames",
+              "Foundation systems",
+              "Structural rehabilitation"
+            ],
+            "careers": [
+              "Structural design engineer",
+              "Geotechnical engineer",
+              "Technical office engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 63
+            }
+          },
+          {
+            "courseCode": "CVL422",
+            "courseName": "Quality Control of Smart Materials",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A materials-focused course dealing with testing, quality, durability, and performance in built assets.",
+            "skills": [
+              "Material selection",
+              "Testing interpretation",
+              "Quality-control reasoning"
+            ],
+            "jobMarket": "Materials knowledge supports safe construction, durability, sustainability, and performance monitoring.",
+            "applications": [
+              "Concrete testing",
+              "Quality-control plans",
+              "Smart material evaluation"
+            ],
+            "careers": [
+              "Materials engineer",
+              "Quality control engineer",
+              "Structural health monitoring engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 64
+            }
+          },
+          {
+            "courseCode": "CVL435",
+            "courseName": "Real Estate & Urban Planning Development",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+            "skills": [
+              "Planning and control",
+              "Cost and quantity awareness",
+              "Commercial decision-making"
+            ],
+            "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+            "applications": [
+              "Schedules",
+              "Cost estimates",
+              "Contract administration and risk registers"
+            ],
+            "careers": [
+              "Project controls engineer",
+              "Quantity surveyor",
+              "Construction project manager"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 65
+            }
+          },
+          {
+            "courseCode": "CVL436",
+            "courseName": "Principles of Management & Human Resources",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+            "skills": [
+              "Planning and control",
+              "Cost and quantity awareness",
+              "Commercial decision-making"
+            ],
+            "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+            "applications": [
+              "Schedules",
+              "Cost estimates",
+              "Contract administration and risk registers"
+            ],
+            "careers": [
+              "Project controls engineer",
+              "Quantity surveyor",
+              "Construction project manager"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 66
+            }
+          },
+          {
+            "courseCode": "CVL437",
+            "courseName": "Building Information Modeling",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A digital and smart-infrastructure course connecting civil engineering with data, models, and connected built environments.",
+            "skills": [
+              "Digital modeling",
+              "Systems thinking",
+              "Technology evaluation"
+            ],
+            "jobMarket": "Modern civil engineering teams increasingly use BIM, smart-city systems, sensors, and analytics to plan and manage assets.",
+            "applications": [
+              "BIM coordination",
+              "Smart infrastructure concepts",
+              "Sensor-informed asset workflows"
+            ],
+            "careers": [
+              "BIM engineer",
+              "Smart infrastructure engineer",
+              "Digital construction specialist"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 67
+            }
+          },
+          {
+            "courseCode": "CVL462",
+            "courseName": "GIS in Smart Structures and Systems",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "",
+            "description": "A spatial documentation course focused on drawings, survey data, mapping, and civil engineering representation.",
+            "skills": [
+              "Technical drawing",
+              "Spatial interpretation",
+              "Survey and mapping workflows"
+            ],
+            "jobMarket": "Civil engineers use drawings, survey records, and GIS outputs to coordinate design, site execution, and asset records.",
+            "applications": [
+              "Site layouts",
+              "CAD drawings",
+              "GIS maps and survey documentation"
+            ],
+            "careers": [
+              "Surveying engineer",
+              "Site engineer",
+              "BIM/GIS specialist"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 68
+            }
+          },
+          {
+            "courseCode": "IND252",
+            "courseName": "Operation Research I",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "MTH214",
+            "description": "A management-oriented civil engineering course focused on delivery, planning, cost, contracts, risk, and resources.",
+            "skills": [
+              "Planning and control",
+              "Cost and quantity awareness",
+              "Commercial decision-making"
+            ],
+            "jobMarket": "Construction and infrastructure employers need engineers who can control time, budget, contracts, and stakeholder expectations.",
+            "applications": [
+              "Schedules",
+              "Cost estimates",
+              "Contract administration and risk registers"
+            ],
+            "careers": [
+              "Project controls engineer",
+              "Quantity surveyor",
+              "Construction project manager"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 69
+            }
+          }
+        ],
+        "mathElectives": [
+          {
+            "courseCode": "MTH317",
+            "courseName": "Introduction to Mathematical Optimization",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "MTH214",
+            "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+            "skills": [
+              "Quantitative modeling",
+              "Problem formulation",
+              "Analytical reasoning"
+            ],
+            "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+            "applications": [
+              "Load-response calculations",
+              "Optimization studies",
+              "Engineering data analysis"
+            ],
+            "careers": [
+              "Structural engineer",
+              "Infrastructure analyst",
+              "Planning engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 74
+            }
+          },
+          {
+            "courseCode": "MTH318",
+            "courseName": "Advanced Numerical Analysis",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "MTH112 & MTH113",
+            "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+            "skills": [
+              "Quantitative modeling",
+              "Problem formulation",
+              "Analytical reasoning"
+            ],
+            "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+            "applications": [
+              "Load-response calculations",
+              "Optimization studies",
+              "Engineering data analysis"
+            ],
+            "careers": [
+              "Structural engineer",
+              "Infrastructure analyst",
+              "Planning engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 75
+            }
+          },
+          {
+            "courseCode": "MTH319",
+            "courseName": "Advanced Probability and Statistics",
+            "creditHours": 3,
+            "semester": "Elective options",
+            "semesterTitle": "Elective options",
+            "term": "Elective options",
+            "track": "Project Management Track",
+            "type": "elective",
+            "preRequisites": "MTH216",
+            "description": "A mathematics course supporting engineering modeling, analysis, uncertainty, and numerical calculation.",
+            "skills": [
+              "Quantitative modeling",
+              "Problem formulation",
+              "Analytical reasoning"
+            ],
+            "jobMarket": "Strong mathematics supports structural analysis, hydraulics, geotechnical design, optimization, and data-informed decisions.",
+            "applications": [
+              "Load-response calculations",
+              "Optimization studies",
+              "Engineering data analysis"
+            ],
+            "careers": [
+              "Structural engineer",
+              "Infrastructure analyst",
+              "Planning engineer"
+            ],
+            "source": {
+              "workbook": "2023 Bylaws_3_3_2025_CVL.xlsx",
+              "sheet": "CCE Major-1 (8 S)",
+              "row": 76
+            }
+          }
+        ]
+      },
+      "totalCreditHours": 144,
+      "numberOfSemesters": 8,
+      "zeroCreditRequirements": 4,
+      "typeCounts": {
+        "university": 5,
+        "core": 30,
+        "elective": 8,
+        "practical": 2,
+        "track": 7
+      },
+      "validation": {
+        "expectedTotalCreditHours": 144,
+        "equalsExpectedTotal": true
+      }
+    }
+  ],
+  "notes": [
+    "Official course descriptions were not present in the workbook; descriptions are concise generic summaries based on course titles.",
+    "The workbook includes 7-semester variants; the website publishes the 8-semester plans because they directly validate to 144 credit hours.",
+    "The user rule mentions Writing Skills and Presentation as 3 credit hours; the workbook lists EGL213 Writing Skills and EGL214 Communication and Presentation Skills separately, both with 3 credit hours."
+  ]
+}

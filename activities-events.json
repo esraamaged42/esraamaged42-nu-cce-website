@@ -1,0 +1,77 @@
+{
+  "title": "Activities & Events",
+  "items": [
+    {
+      "title": "Earthquake Competition Event",
+      "category": "Competition",
+      "image": "assets/images/activities/earthquake-competition.webp",
+      "alt": "Students and faculty during an earthquake engineering competition activity",
+      "caption": "A student competition focused on structural response, teamwork, and engineering explanation.",
+      "editablePlaceholder": false,
+      "sourceFile": "CCE Activities & Events/The Earthquake Competition Event/FB_IMG_1781452418859.jpg",
+      "width": 1500,
+      "height": 1000,
+      "section": "Activities & Events"
+    },
+    {
+      "title": "Spaghetti Competition Celebration",
+      "category": "Competition",
+      "image": "assets/images/activities/spaghetti-structure-competition.webp",
+      "alt": "Student team presenting a lightweight structural model",
+      "caption": "A hands-on model-building activity that encourages structural thinking and iterative design.",
+      "editablePlaceholder": false,
+      "sourceFile": "CCE Activities & Events/Spaghetti Competition Celebration/FB_IMG_1781452625318.jpg",
+      "width": 1440,
+      "height": 960,
+      "section": "Activities & Events"
+    },
+    {
+      "title": "Civil Engineering Day",
+      "category": "Department Event",
+      "image": "assets/images/activities/civil-engineering-day.webp",
+      "alt": "Civil Engineering Day session with students and faculty",
+      "caption": "A department event for sharing civil engineering knowledge, experiences, and student engagement.",
+      "editablePlaceholder": false,
+      "sourceFile": "CCE Activities & Events/Civil Engineering Day/FB_IMG_1781451993743.jpg",
+      "width": 1500,
+      "height": 1000,
+      "section": "Activities & Events"
+    },
+    {
+      "title": "Graduation Project Defense",
+      "category": "Academic Showcase",
+      "image": "assets/images/activities/graduation-project-defense.webp",
+      "alt": "Student presenting a civil engineering graduation project",
+      "caption": "A capstone presentation setting where students communicate design decisions and applied project outcomes.",
+      "editablePlaceholder": false,
+      "sourceFile": "CCE Activities & Events/Graduation Project Defense/FB_IMG_1781452901402.jpg",
+      "width": 1500,
+      "height": 844,
+      "section": "Activities & Events"
+    },
+    {
+      "title": "STEM & High School Hands-on Activities",
+      "category": "Workshop",
+      "image": "assets/images/activities/hands-on-workshop.webp",
+      "alt": "Students participating in a hands-on civil engineering workshop",
+      "caption": "Workshop-style activities that introduce engineering measurement, observation, and experimentation.",
+      "editablePlaceholder": false,
+      "sourceFile": "CCE Activities & Events/STEM & high school - hands-on activities/FB_IMG_1781451782262.jpg",
+      "width": 1500,
+      "height": 2000,
+      "section": "Activities & Events"
+    },
+    {
+      "title": "CCE Bazaar",
+      "category": "Student Activity",
+      "image": "assets/images/activities/cce-bazaar-models.webp",
+      "alt": "Civil engineering model displays at a CCE activity",
+      "caption": "A visual showcase of student work, models, and department activities.",
+      "editablePlaceholder": false,
+      "sourceFile": "CCE Activities & Events/CCE Bazaar/FB_IMG_1781452200550.jpg",
+      "width": 1500,
+      "height": 999,
+      "section": "Activities & Events"
+    }
+  ]
+}
